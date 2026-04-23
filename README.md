@@ -17,7 +17,8 @@ All artifacts are written from the perspective of a **senior‑level security re
 
 - **Architecture‑level flaws** vs. isolated smart‑contract bugs  
 - **Trust assumptions and attack surfaces** across stack layers  
-- **Mitigation strategies and hardening recommendations** for teams and auditors  
+- **Mitigation strategies and hardening recommendations** for teams and auditors 
+- **No room for false positives or negatives** 
 
 ---
 
